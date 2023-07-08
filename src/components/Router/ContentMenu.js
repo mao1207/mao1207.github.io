@@ -29,7 +29,7 @@ import Life from "../pages/life.js";
 const ContentMenu = {
   0: {
     path: "/",
-    element: <GalleryView />,
+    element: <AboutPage />,
     title: "",
     thumbnail: "",
     displayInGallery: false,
