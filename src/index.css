@@ -1,0 +1,169 @@
+:root {
+  --zoom-factor: 1;
+}
+
+/* Definitions */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;600;700&display=swap");
+/* @import url('https://fonts.googleapis.com/css2?family=Proxima+Nova:wght@300;500;700&display=swap'); */
+
+#root {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  /* background: #000000; */
+
+  font-family: Inter, sans-serif !important;
+  overflow: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.not-select {
+  -moz-user-select: none; /*火孤*/
+  -webkit-user-select: none; /*webkit浏览器*/
+  -ms-user-select: none; /*IE10*/
+  -khtml-user-select: none; /*早期浏览器*/
+  user-select: none;
+}
+
+.no-touch {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+::-moz-selection {
+  /* Code for Firefox */
+  /* background: rgb(217, 180, 161); */
+  background: #111;
+  color: #fff;
+}
+
+::selection {
+  /* background: rgb(217, 180, 161); */
+  background: #111;
+  color: #fff;
+}
+
+/* Scrollbar */
+/* width */
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  /* background: black; */
+  background: white;
+  outline: 2px solid black;
+  /* border-radius: 7px; */
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  /* background: rgb(127, 255, 0); */
+  background: black;
+  outline: 2px solid black;
+}
+
+/* Hyperlink */
+a {
+  color: black;
+  text-decoration-line: underline;
+  text-decoration-thickness: 1px;
+}
+
+a:hover {
+  color: black;
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+}
+
+a:visited {
+  color: black;
+}
+
+/* zoom out */
+@media screen and (max-height: 1500px) {
+  :root {
+    --zoom-factor: 0.8;
+  }
+}
+
+@media screen and (max-width: 2600px) {
+  :root {
+    --zoom-factor: 0.8;
+  }
+}
+
+@media screen and (max-height: 1300px) {
+  :root {
+    --zoom-factor: 0.7;
+  }
+}
+
+@media screen and (max-width: 2000px) {
+  :root {
+    --zoom-factor: 0.7;
+  }
+}
+
+@media screen and (max-height: 1200px) {
+  :root {
+    --zoom-factor: 0.6;
+  }
+}
+
+@media screen and (max-width: 1600px) {
+  :root {
+    --zoom-factor: 0.6;
+  }
+}
+
+@media screen and (max-height: 1000px) {
+  :root {
+    --zoom-factor: 0.5;
+  }
+}
+
+@media screen and (max-width: 1350px) {
+  :root {
+    --zoom-factor: 0.5;
+  }
+}
+
+@media screen and (max-height: 850px) {
+  :root {
+    --zoom-factor: 0.4;
+  }
+}
+
+@media screen and (max-width: 1250px) {
+  :root {
+    --zoom-factor: 0.4;
+  }
+}
+
+html {
+  zoom: var(--zoom-factor);
+}
