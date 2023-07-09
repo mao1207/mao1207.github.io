@@ -1,19 +1,19 @@
 {
-  "short_name": "CJJL's Gallery",
-  "name": "CJJL's Gallery",
+  "short_name": "Lingjun Mao's Research",
+  "name": "Lingjun Mao's Research",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://mao1207.github.io/Personal-Website/favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "https://mao1207.github.io/Personal-Website/logo192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "https://mao1207.github.io/Personal-Website/logo512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
