@@ -18,9 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am currently a third-year undergraduate in the School of Software Engineering at [Tongji University](https://sse.tongji.edu.cn/), and also a visiting student at [the University of California, Berkeley](https://www.berkeley.edu/) since January 2024. My research primarily revolves around data mining, especially graph analysis (GNNs), multi-modal learning and natural language processing.
+I am currently a forth-year undergraduate in the School of Software Engineering at [Tongji University](https://sse.tongji.edu.cn/), and also a visiting student at [the University of California, Berkeley](https://www.berkeley.edu/) since January 2024. My research primarily revolves around data mining, multi-modal learning and natural language processing.
 
 Previously, I have interned as a research assistant in the NaMI lab/ADE Lab at Tongji University, [MIT Media Lab's City Science Lab@Shanghai](https://www.media.mit.edu/projects/city-science-lab-shanghai/overview/), and the Department of Computer Science at [the University of Hong Kong](https://www.cs.hku.hk/). Currently, I am interning at [Berkeley NLP Group](https://nlp.cs.berkeley.edu/) within [Berkeley Artificial Intelligence Research (BAIR) Lab](https://bair.berkeley.edu/), working with [Prof. Alane](https://www.alanesuhr.com/) and [Dr. Zineng](https://zinengtang.github.io/) to explore the future of vision language models (VLMs).
+
+My research interests mainly focus on how to enable VLMs to perceive the world, reason, and respond to their environment more like humans, grounded in the multimodal world.
 
 <!--
 From 2023 to 2024, I worked at [DouBao](https://www.doubao.com/chat/)![DouBao](../images/tiktok.png) as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
@@ -28,20 +30,76 @@ From 2023 to 2024, I worked at [DouBao](https://www.doubao.com/chat/)![DouBao](.
 
 You can find my CV here: [Lingjun Mao's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). If you are interested in my work, please feel free to drop me an [email](lingjun@berkeley.edu).
 
+<span style="color: red;">
+I am currently seeking PhD opportunities for Fall 2025. If you have a suitable opportunity, please feel free to contact me.
+</span>
+
 <!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
 
 # 🔥 News
-- *2024.07*: &nbsp;Our work on multi-perspective communication among agents is now online.
-- *2024.06*: &nbsp;Our work on multimodal instruction-tuning for biomedicine is [online](https://biomed-vital.github.io/). Check it out!
-- *2024.06*: &nbsp;🎉🎉Paper "Among Agents" is accepted at ACL Wordplay Workshop 2024. See you in Bangkok!
+- *2024.09*: &nbsp;Our work on multi-perspective communication has been accepted by EMNLP main 2024.
+- *2024.09*: &nbsp;Our work on multimodal instruction-tuning for biomedicine is accepted by NeurIPS D&B 2024!
+- *2024.06*: &nbsp;🎉🎉Our paper "Among Agents" is accepted at ACL Wordplay Workshop 2024. See you in Bangkok!
 - *2024.01*: &nbsp;Thrilled to join the Berkeley NLP Group as an intern! Go bears!
 - *2023.11*: &nbsp;Accepted into the Berkeley Global Access program. Looking forward to California!🐻🔥
 - *2023.07*: &nbsp;Accepted into the University of Hong Kong's CS summer research internship. A wonderful summer with Prof. Chuan Wu and Dr. Junwei Su!
 - *2022.02*: &nbsp;Join the MIT Media Lab's CSL@Shanghai.
 
+# ✍️ Ongoing Projects 
+Notice: All content is for reference only. Research directions and team members are all subject to change!
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper7.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VLMs Are Blind! They are Just Listenser Instead of Obsearver]()
+
+**Lingjun Mao**, Zineng Tang, Alane Suhr 
+
+[**Project**]() | <strong>Comming Soon</strong>
+- Content to be released soon.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper9.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dynamic Tokenization: Not Every Image Needs 768 Tokens]()
+
+Zineng Tang\*, **Lingjun Mao\***, Rudy Corona\*
+
+[**Project**]() | <strong>Comming Soon</strong>
+- Content to be released soon.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper8.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Real-time Interactive Video Language Models]()
+
+Jessy Lin, Jiayi Pan, Zineng Tang, **Lingjun Mao** 
+
+[**Project**]() | <strong>Comming Soon</strong>
+- Content to be released soon.
+</div>
+</div>
+
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper6.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[How Do Color Illusions Affect The Perception of Vision-language Models?]()
+
+**Lingjun Mao**, Zineng Tang, Alane Suhr 
+
+[**Project**]() | <strong>Submitted to CVPR 2025</strong>
+- We propose an automated framework for generating realistic illusion images and creat a large, realistic dataset of color illusion images.
+-  We investigate the underlying mechanisms of color illusions.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -49,7 +107,7 @@ You can find my CV here: [Lingjun Mao's Curriculum Vitae](../assets/Curriculum_V
 
 Zineng Tang, **Lingjun Mao**, Alane Suhr 
 
-[**Project**]() | <strong>Submitted to ACL ARR 2024</strong>
+[**Project**]() | <strong>EMNLP main 2024</strong>
 - We introduce a task and dataset for referring expression generation and comprehension in multi-agent embodied environments.
 </div>
 </div>
@@ -80,7 +138,7 @@ Yizhou Chi, **Lingjun Mao**, Zineng Tang
 
  Hejie Cui*, **Lingjun Mao\***, Xin Liang, Jieyu Zhang, Hui Ren, Quanzheng Li, Xiang Li, Carl Yang
 
-[**Project**](https://biomed-vital.github.io/) | <strong>submitted to NeurIPS D&B track 2024</strong>
+[**Project**](https://biomed-vital.github.io/) | <strong>NeurIPS D&B 2024</strong>
 - we propose a data-centric framework (Biomed-VITAl) that incorporates clinician preferences into both stages of generating and selecting instruction data for tuning biomedical multimodal foundation models.
 </div>
 </div>
@@ -92,7 +150,7 @@ Yizhou Chi, **Lingjun Mao**, Zineng Tang
 
 Junwei Su*, **Lingjun Mao\***, Chuan Wu
 
-[**Project**](https://arxiv.org/abs/2403.08207) | <strong>CIKM 2024</strong>
+[**Project**](https://arxiv.org/abs/2403.08207) | <strong>Submitted to AAAI 2025</strong>
 - We first highlights and demonstrates that the standard approach employed by existing HGNNs inevitably leads to parameter explosion and relation collapse.
 </div>
 </div>
@@ -104,7 +162,7 @@ Junwei Su*, **Lingjun Mao\***, Chuan Wu
 
 Kejiang Qian, **Lingjun Mao**, Xin Liang, Yimin Ding, Jin Gao, Xinran Wei, Ziyi Guo, Jiajie Li
 
-[**Project**](https://arxiv.org/abs/2310.16772) | <strong>Arxiv</strong>
+[**Project**](https://arxiv.org/abs/2310.16772) | <strong>Submitted to AAAI 2025</strong>
 - we introduce a Consensus-based Multi-Agent Reinforcement Learning framework for real-world land use readjustment.
 </div>
 </div>
