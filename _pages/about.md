@@ -18,11 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am currently a forth-year undergraduate in the School of Software Engineering at [Tongji University](https://sse.tongji.edu.cn/), and also a visiting student at [the University of California, Berkeley](https://www.berkeley.edu/) since January 2024. My research primarily revolves around data mining, multi-modal learning and natural language processing.
+I am currently a forth-year undergraduate in the School of Software Engineering at [Tongji University](https://sse.tongji.edu.cn/), and also a visiting student at [the University of California, Berkeley](https://www.berkeley.edu/) since January 2024. My research focuses on data mining, multimodal learning, and natural language processing, especially exploring how to enable vision-language models (VLMs) to perceive the world, reason, and respond to their environment in a human-like manner, grounded in a multimodal context.
 
 Previously, I have interned as a research assistant in the NaMI lab/ADE Lab at Tongji University, [MIT Media Lab's City Science Lab@Shanghai](https://www.media.mit.edu/projects/city-science-lab-shanghai/overview/), and the Department of Computer Science at [the University of Hong Kong](https://www.cs.hku.hk/). Currently, I am interning at [Berkeley NLP Group](https://nlp.cs.berkeley.edu/) within [Berkeley Artificial Intelligence Research (BAIR) Lab](https://bair.berkeley.edu/), working with [Prof. Alane](https://www.alanesuhr.com/) and [Dr. Zineng](https://zinengtang.github.io/) to explore the future of vision language models (VLMs).
-
-My research interests mainly focus on how to enable VLMs to perceive the world, reason, and respond to their environment more like humans, grounded in the multimodal world.
 
 <!--
 From 2023 to 2024, I worked at [DouBao](https://www.doubao.com/chat/)![DouBao](../images/tiktok.png) as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
