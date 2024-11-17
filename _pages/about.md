@@ -26,7 +26,7 @@ Previously, I have interned as a research assistant in the NaMI lab/ADE Lab at T
 From 2023 to 2024, I worked at [DouBao](https://www.doubao.com/chat/)![DouBao](../images/tiktok.png) as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
 -->
 
-You can find my CV here: [Lingjun Mao's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). If you are interested in my work, please feel free to drop me an [email](lingjun@berkeley.edu).
+You can find my CV here: [Lingjun Mao's Curriculum Vitae](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ05bsLw6/view?usp=sharing). If you are interested in my work, please feel free to drop me an [email](lingjun@berkeley.edu).
 
 <span style="color: red;">
 I am currently seeking PhD opportunities for Fall 2025. If you have a suitable opportunity, please feel free to contact me.
