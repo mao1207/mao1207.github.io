@@ -88,24 +88,24 @@ Jessy Lin, Jiayi Pan, Zineng Tang, **Lingjun Mao**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[How Do Color Illusions Affect The Perception of Vision-language Models?]()
+[Evaluating Model Perception of Color Illusions in Photorealistic Scenes]()
 
 **Lingjun Mao**, Zineng Tang, Alane Suhr 
 
 [**Project**]() | <strong>Submitted to CVPR 2025</strong>
-- We propose an automated framework for generating realistic illusion images and creat a large, realistic dataset of color illusion images.
--  We investigate the underlying mechanisms of color illusions.
+- We propose an automated framework for generating realistic illusion images and creat a large, realistic dataset (RCID) of color illusion images.
+- We investigate the underlying mechanisms of color illusions.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Grounding Language in Multi-Perspective Referential Communication]()
+[Grounding Language in Multi-Perspective Referential Communication](https://arxiv.org/abs/2410.03959)
 
 Zineng Tang, **Lingjun Mao**, Alane Suhr 
 
-[**Project**]() | <strong>EMNLP main 2024</strong>
+[**Project**](https://arxiv.org/abs/2410.03959) | <strong>EMNLP main 2024</strong>
 - We introduce a task and dataset for referring expression generation and comprehension in multi-agent embodied environments.
 </div>
 </div>
@@ -120,11 +120,11 @@ Zineng Tang, **Lingjun Mao**, Alane Suhr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game]()
+[AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game](https://arxiv.org/abs/2407.16521)
 
 Yizhou Chi, **Lingjun Mao**, Zineng Tang
 
-[**Project**]() | <strong>ACL Wordplay Workshop 2024</strong>
+[**Project**](https://arxiv.org/abs/2407.16521) | <strong>ACL Wordplay Workshop 2024</strong>
 - This paper focuses on creating proxies of human behavior in simulated environments, with “Among Us” utilized as a tool for studying simulated human behavior.
 </div>
 </div>
@@ -132,7 +132,7 @@ Yizhou Chi, **Lingjun Mao**, Zineng Tang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Biomedical Visual Instruction Tuning with Clinician Preference Alignment](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13064/130643A/Research-on-trajectory-prediction-of-vehicle-lane-change-for-autonomous/10.1117/12.3015773.short)
+[Biomedical Visual Instruction Tuning with Clinician Preference Alignment](https://biomed-vital.github.io/)
 
  Hejie Cui*, **Lingjun Mao\***, Xin Liang, Jieyu Zhang, Hui Ren, Quanzheng Li, Xiang Li, Carl Yang
 
