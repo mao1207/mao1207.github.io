@@ -77,7 +77,7 @@ Zineng Tang\*, **Lingjun Mao\***, Rudy Corona\*
 
 [Towards Real-time Interactive Video Language Models]()
 
-Jessy Lin, Jiayi Pan, Zineng Tang, **Lingjun Mao** 
+Jessy Lin, Jiayi Pan, Zineng Tang, Sanjay Subramanian, **Lingjun Mao**, Dan Klein, Alane Suhr 
 
 [**Project**]() | <strong>Comming Soon</strong>
 - Content to be released soon.
@@ -88,11 +88,11 @@ Jessy Lin, Jiayi Pan, Zineng Tang, **Lingjun Mao**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Evaluating Model Perception of Color Illusions in Photorealistic Scenes]()
+[Evaluating Model Perception of Color Illusions in Photorealistic Scenes](https://arxiv.org/abs/2412.06184)
 
 **Lingjun Mao**, Zineng Tang, Alane Suhr 
 
-[**Project**]() | <strong>Submitted to CVPR 2025</strong>
+[**Project**](https://arxiv.org/abs/2412.06184) | <strong>Submitted to CVPR 2025</strong>
 - We propose an automated framework for generating realistic illusion images and creat a large, realistic dataset (RCID) of color illusion images.
 - We investigate the underlying mechanisms of color illusions.
 </div>
@@ -160,7 +160,7 @@ Junwei Su*, **Lingjun Mao\***, Chuan Wu
 
 Kejiang Qian, **Lingjun Mao**, Xin Liang, Yimin Ding, Jin Gao, Xinran Wei, Ziyi Guo, Jiajie Li
 
-[**Project**](https://arxiv.org/abs/2310.16772) | <strong>Submitted to AAAI 2025</strong>
+[**Project**](https://arxiv.org/abs/2310.16772) | <strong>Submitted to TKED</strong>
 - we introduce a Consensus-based Multi-Agent Reinforcement Learning framework for real-world land use readjustment.
 </div>
 </div>
