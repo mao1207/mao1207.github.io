@@ -63,9 +63,9 @@ Notice: All content is for reference only. Research directions and team members 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper9.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dynamic Tokenization: Not Every Image Needs 768 Tokens]()
+[Dynamic Tokenization: Not Every Image Needs 256 Tokens]()
 
-Zineng Tang\*, **Lingjun Mao\***, Rudy Corona\*
+**Lingjun Mao**, Rudy Corona, Zineng Tang
 
 [**Project**]() | <strong>Comming Soon</strong>
 - Content to be released soon.
