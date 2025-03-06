@@ -92,7 +92,7 @@ Jessy Lin, Jiayi Pan, Zineng Tang, Sanjay Subramanian, **Lingjun Mao**, Dan Klei
 
 **Lingjun Mao**, Zineng Tang, Alane Suhr 
 
-[**Project**](https://arxiv.org/abs/2412.06184) | <strong>Submitted to CVPR 2025</strong>
+[**Project**](https://arxiv.org/abs/2412.06184) | <strong>CVPR 2025</strong>
 - We propose an automated framework for generating realistic illusion images and creat a large, realistic dataset (RCID) of color illusion images.
 - We investigate the underlying mechanisms of color illusions.
 </div>
