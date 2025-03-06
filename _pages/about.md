@@ -136,7 +136,7 @@ Yizhou Chi, **Lingjun Mao**, Zineng Tang
 
  Hejie Cui*, **Lingjun Mao\***, Xin Liang, Jieyu Zhang, Hui Ren, Quanzheng Li, Xiang Li, Carl Yang
 
-[**Project**](https://biomed-vital.github.io/) | <strong>NeurIPS D&B 2024</strong>
+[**Project**](https://biomed-vital.github.io/) | <strong>NeurIPS 2024</strong>
 - we propose a data-centric framework (Biomed-VITAl) that incorporates clinician preferences into both stages of generating and selecting instruction data for tuning biomedical multimodal foundation models.
 </div>
 </div>
