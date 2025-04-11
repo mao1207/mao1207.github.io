@@ -22,8 +22,6 @@ I am an incoming CS Ph.D. Student at [University of California San Diego](https:
 
 My research focuses on multimodal learning, natural language processing, and machine learning. I am particularly interested in enabling vision-language models (VLMs) to perceive, reason, and interact with the world in a more human-like manner, grounded in multimodal context. While recent VLMs have shown impressive progress, there still remains a significant gap between VLMs and humans in handling vision-centric tasks (e.g., 3D world understanding, counting, and visual IQ tests). I am curious about whether we can develop more effective approaches for enabling human-level visual reasoning abilities in these models.
 
-Looking back, it has been quite a journey for me to discover my true research interest during my undergraduate years. I have been fortunate to explore a wide range of research experiences at various labs and institutions, including the NaMI Lab / ADE Lab at Tongji University, [MIT Media Lab's City Science Lab@Shanghai](https://www.media.mit.edu/projects/city-science-lab-shanghai/overview/), Emory University, and The University of Hong Kong. Along the way, I have been lucky to meet and learn from many inspiring researchers who have guided me and shaped my path. I am also deeply grateful to my girlfriend [Xin Liang](https://liangxin1001.github.io/), who has always been by my side and supported me unconditionally throughout this journey.
-
 You can find my CV here: [Lingjun Mao's Curriculum Vitae](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ05bsLw6/view?usp=sharing). I am always open to any form of collaboration. If you have any ideas for potential collaboration, or just feel like having a casual chat, please feel free to reach out!
 
 <!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
@@ -128,6 +126,14 @@ Kejiang Qian, **Lingjun Mao**, Xin Liang, Yimin Ding, Jin Gao, Xinran Wei, Ziyi 
 - *2020-2025(expected)*, Software Engineering, Tongji University, Shanghai, China
   - Supervised by [Prof. Zhen Gao](https://scholar.google.com/citations?user=4ylyExkAAAAJ)
 
+# 💻 Internships
+- *Feb 2024 - Present*: Berkeley NLP Group, Berkeley Artificial Intelligence Research (BAIR) Lab
+- *Nov 2023 - Jun 2024*: Department of Computer Science, Emory University
+- *Apr 2023 - May 2024*: Department of Computer Science, University of Hong Kong
+- *Apr 2022 - Nov 2023*: City Science Lab@Shanghai (MIT Media Lab)
+- *Sept 2021 - Nov 2023*: Tongji ADE Lab
+- *May 2021 - Apr 2023*: Tongji NaMI Lab
+- 
 <!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
