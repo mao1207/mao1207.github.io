@@ -133,12 +133,6 @@ Kejiang Qian, **Lingjun Mao**, Xin Liang, Yimin Ding, Jin Gao, Xinran Wei, Ziyi 
 - *Apr 2022 - Nov 2023*: City Science Lab@Shanghai (MIT Media Lab)
 - *Sept 2021 - Nov 2023*: Tongji ADE Lab
 - *May 2021 - Apr 2023*: Tongji NaMI Lab
-- 
-<!--
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
 
 ------
 
