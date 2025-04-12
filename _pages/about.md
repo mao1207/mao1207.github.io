@@ -124,7 +124,7 @@ Kejiang Qian, **Lingjun Mao**, Xin Liang, Yimin Ding, Jin Gao, Xinran Wei, Ziyi 
 - *2024.01 - 2024.10*, Visiting Student (Berkeley Global Access Exchange Program) in University of California, Berkeley, USA
   - Supervised by [Prof. Alane Suhr](https://www.alanesuhr.com/)
 - *2020-2025(expected)*, Software Engineering, Tongji University, Shanghai, China
-  - Supervised by [Prof. Zhen Gao](https://scholar.google.com/citations?user=4ylyExkAAAAJ)
+  - Supervised by [Prof. Zhen Gao](https://sse.tongji.edu.cn/info/1206/3160.htm)
 
 # 💻 Internships
 - *Feb 2024 - Present*: Berkeley NLP Group, Berkeley Artificial Intelligence Research (BAIR) Lab
