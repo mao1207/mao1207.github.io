@@ -103,7 +103,7 @@ Yizhou Chi, **Lingjun Mao**, Zineng Tang
 
 Junwei Su*, **Lingjun Mao\***, Chuan Wu
 
-[**Project**](https://arxiv.org/abs/2403.08207) | <strong>Submitted to AAAI 2025</strong>
+[**Project**](https://arxiv.org/abs/2403.08207) | <strong>ArXiv 2024</strong>
 - We first highlights and demonstrates that the standard approach employed by existing HGNNs inevitably leads to parameter explosion and relation collapse.
 </div>
 </div>
@@ -115,7 +115,7 @@ Junwei Su*, **Lingjun Mao\***, Chuan Wu
 
 Kejiang Qian, **Lingjun Mao**, Xin Liang, Yimin Ding, Jin Gao, Xinran Wei, Ziyi Guo, Jiajie Li
 
-[**Project**](https://arxiv.org/abs/2310.16772) | <strong>Submitted to TKED</strong>
+[**Project**](https://arxiv.org/abs/2310.16772) | <strong>ArXiv 2024</strong>
 - we introduce a Consensus-based Multi-Agent Reinforcement Learning framework for real-world land use readjustment.
 </div>
 </div>
