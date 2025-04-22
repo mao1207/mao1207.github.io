@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lingjun Mao"
-description              : "visiting researcher in the Berkeley NLP Group"
+description              : "Ph.D. Student in Computer Science"
 repository               : "mao1207/mao1207.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lingjun Mao"
   avatar           : "images/profile.png"
-  bio              : "Tongji University"
-  location         : "Berkeley, CA, USA"
+  bio              : "UCSD"
+  location         : "UC San Diego, CA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FPn61hYAAAAJ"
-  email            : "lingjun@berkeley.edu"
+  email            : "lingjun@ucsd.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
