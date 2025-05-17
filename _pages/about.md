@@ -43,6 +43,16 @@ You can find my [CV](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ0
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[Images are Worth Variable Numbers of Tokens]()
+
+**Lingjun Mao**, Rodolfo Corona, Xin Liang, Wenhao Yan, Zineng Tang
+
+[**Project**]() | <strong>Arxiv 2025</strong>
+- We propose DOVE, a dynamic vision encoder that produces a variable number of tokens to reconstruct each image.
+- We extend DOVE with query-conditioned tokenization, which enables more efficient and targeted semantic extraction.
+</div>
+</div>
+
 [Evaluating Model Perception of Color Illusions in Photorealistic Scenes](https://arxiv.org/abs/2412.06184)
 
 **Lingjun Mao**, Zineng Tang, Alane Suhr 
