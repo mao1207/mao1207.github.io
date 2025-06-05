@@ -47,7 +47,7 @@ You can find my [CV](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ0
 
 **Lingjun Mao**, Rodolfo Corona, Xin Liang, Wenhao Yan, Zineng Tang
 
-[**Project**]() | <strong>Arxiv 2025</strong>
+[**Project**](https://arxiv.org/abs/2506.03643) | <strong>Arxiv 2025</strong>
 - We propose DOVE, a dynamic vision encoder that produces a variable number of tokens to reconstruct each image.
 - We extend DOVE with query-conditioned tokenization, which enables more efficient and targeted semantic extraction.
 </div>
