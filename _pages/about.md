@@ -143,7 +143,7 @@ Kejiang Qian, **Lingjun Mao**, Xin Liang, Yimin Ding, Jin Gao, Xinran Wei, Ziyi 
 
 # 📖 Educations
 - *2024.09 - 2024.10*, Visiting Student in University of California, Berkeley, USA
-- *2020.09-2025.7*, Software Engineering (GPA: 4.0/4.0), Tongji University, Shanghai, China
+- *2020.09 - 2025.7*, Software Engineering (GPA: 4.0/4.0), Tongji University, Shanghai, China
 
 <!-- # 💻 Internships
 - *Feb 2024 - Present*: Berkeley NLP Group, Berkeley Artificial Intelligence Research (BAIR) Lab
