@@ -18,9 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am an incoming CS Ph.D. Student at [University of California San Diego](https://cse.ucsd.edu/) (UCSD), advised by [Prof. Lianhui Qin](https://lianhui.ucsd.edu/). Prior to this, I completed my undergraduate studies in the School of Software Engineering at [Tongji University](https://sse.tongji.edu.cn/), where I ranked 1st out of 227 students with a major GPA of 4.99/5.0. During my undergraduate studies, I was also a Visiting Researcher at the [Berkeley NLP Group](https://nlp.cs.berkeley.edu/) within the [Berkeley Artificial Intelligence Research (BAIR) Lab](https://bair.berkeley.edu/), working closely with [Prof. Alane Suhr](https://www.alanesuhr.com/) and [Zineng Tang](https://zinengtang.github.io/).
+I am an first-year CS Ph.D. student at [University of California San Diego](https://cse.ucsd.edu/) (UCSD), advised by [Prof. Lianhui Qin](https://lianhui.ucsd.edu/). During my undergraduate studies, I was also a Visiting Researcher at the [Berkeley NLP Group](https://nlp.cs.berkeley.edu/), working closely with [Prof. Alane Suhr](https://www.alanesuhr.com/) and [Zineng Tang](https://zinengtang.github.io/).
 
-My research focuses on **natural language processing**, **machine learning**, and **computer vision**. I am particularly interested in enabling vision-language models (VLMs) to perceive, reason, and interact with the world in a more human-like manner, grounded in multimodal context. While recent VLMs have shown impressive progress, there still remains a significant gap between VLMs and humans in handling vision-centric tasks (e.g., 3D world understanding, counting, and visual IQ tests). I am curious about whether we can develop more effective approaches for enabling human-level visual reasoning abilities in these models.
+My research focuses on **natural language processing**, **machine learning**, and **computer vision**. Currently, I am working on building intelligent agents (e.g., embodied agents and coding agents), as well as developing realistic world simulations (e.g., SimWorld) for agent training. In the long term, I aim to leverage increasingly realistic simulated worlds to systematically study the capability boundaries of current models in complex environments, and to explore how such environments can facilitate the learning and generalization of intelligent agents.
+
 
 You can find my [CV](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ05bsLw6/view?usp=sharing) here. I am always open to any form of collaboration. If you have any ideas for potential collaboration, or just feel like having a casual chat, please feel free to reach out!
 
@@ -32,15 +33,11 @@ You can find my [CV](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ0
 - *2025.04*: &nbsp;Thrilled to join UCSD as a CS Ph.D. student. Looking forward to starting this new journey!🌴🌊☀️
 - *2025.02*: &nbsp;Our work on evaluating VLMs on photorealistic color illusion scenes has been accepted to CVPR 2025.
 - *2024.09*: &nbsp;Our work on multi-perspective communication has been accepted by EMNLP main 2024.
-- *2024.09*: &nbsp;Our work on multimodal instruction-tuning for biomedicine has been accepted to NeurIPS D&B 2024! Many thanks to Dr. Hejie Cui and Prof. Carl Yang for their guidance and support!
-- *2024.06*: &nbsp;🎉🎉Our paper "Among Agents" is accepted at ACL Wordplay Workshop 2024. See you in Bangkok!
-- *2024.01*: &nbsp;Thrilled to join the Berkeley NLP Group as an intern! Go bears!🐻🔥
-- *2023.07*: &nbsp;Accepted into the University of Hong Kong's CS summer research internship. A wonderful summer with Prof. Chuan Wu and Dr. Junwei Su!
-- *2022.02*: &nbsp;Join the MIT Media Lab's CSL@Shanghai.
+- *2024.09*: &nbsp;Our work on multimodal instruction-tuning for biomedicine has been accepted to NeurIPS D&B 2024!
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/dove.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/dove.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Images are Worth Variable Length of Representations](https://arxiv.org/abs/2506.03643)
@@ -51,6 +48,18 @@ You can find my [CV](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ0
 - We propose DOVE, a dynamic vision encoder that produces a variable number of tokens to reconstruct each image.
 - We extend DOVE with query-conditioned tokenization, which enables more efficient and targeted semantic extraction.
 </div>
+</div> -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/SimWorld.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds](https://simworld.org/)
+
+Jiawei Ren*, Yan Zhuang*, Xiaokang Ye*, **Lingjun Mao**, Xuhong He, Jianzhi Shen, …, Tianmin Shu†, Zhiting Hu†, Lianhui Qin†
+
+<strong>Technical Report</strong>
+- We propose SimWorld Simulator, featuring three key designs: (1) realistic, open-ended world simulation, (2) rich interface for LLM/VLM agents, and (3) diverse physical and social reasoning scenarios
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper6.png' alt="sym" width="100%"></div></div>
@@ -60,9 +69,8 @@ You can find my [CV](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ0
 
 **Lingjun Mao**, Zineng Tang, Alane Suhr 
 
-[**Project**](https://arxiv.org/abs/2412.06184) | <strong>CVPR 2025</strong>
-- We propose an automated framework for generating realistic illusion images and creat a large, realistic dataset (RCID) of color illusion images.
-- We investigate the underlying mechanisms of color illusions.
+<strong>CVPR 2025</strong>
+- We propose an automated framework for generating realistic color illusion images, build a large-scale dataset (RCID), and systematically investigate the underlying mechanisms by which VLMs are misled by color illusions.
 </div>
 </div>
 
@@ -73,7 +81,7 @@ You can find my [CV](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ0
 
 Zineng Tang, **Lingjun Mao**, Alane Suhr 
 
-[**Project**](https://arxiv.org/abs/2410.03959) | <strong>EMNLP main 2024</strong>
+<strong>EMNLP main 2024</strong>
 - We introduce a task and dataset for referring expression generation and comprehension in multi-agent embodied environments.
 </div>
 </div>
@@ -85,7 +93,7 @@ Zineng Tang, **Lingjun Mao**, Alane Suhr
 </div>
 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper2.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game](https://arxiv.org/abs/2407.16521)
@@ -95,7 +103,7 @@ Yizhou Chi, **Lingjun Mao**, Zineng Tang
 [**Project**](https://arxiv.org/abs/2407.16521) | <strong>ACL Wordplay Workshop 2024</strong>
 - This paper focuses on creating proxies of human behavior in simulated environments, with “Among Us” utilized as a tool for studying simulated human behavior.
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -104,12 +112,12 @@ Yizhou Chi, **Lingjun Mao**, Zineng Tang
 
  Hejie Cui*, **Lingjun Mao\***, Xin Liang, Jieyu Zhang, Hui Ren, Quanzheng Li, Xiang Li, Carl Yang
 
-[**Project**](https://biomed-vital.github.io/) | <strong>NeurIPS 2024</strong>
+<strong>NeurIPS 2024</strong>
 - we propose a data-centric framework (Biomed-VITAl) that incorporates clinician preferences into both stages of generating and selecting instruction data for tuning biomedical multimodal foundation models.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper4.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [BG-HGNN: Toward Scalable and Efficient Heterogeneous Graph Neural Network](https://arxiv.org/abs/2403.08207)
@@ -131,21 +139,19 @@ Kejiang Qian, **Lingjun Mao**, Xin Liang, Yimin Ding, Jin Gao, Xinran Wei, Ziyi 
 [**Project**](https://arxiv.org/abs/2310.16772) | <strong>ArXiv 2024</strong>
 - we introduce a Consensus-based Multi-Agent Reinforcement Learning framework for real-world land use readjustment.
 </div>
-</div>
+</div> -->
 
 # 📖 Educations
-- *2024.01 - 2024.10*, Visiting Student (Berkeley Global Access Exchange Program) in University of California, Berkeley, USA
-  - Supervised by [Prof. Alane Suhr](https://www.alanesuhr.com/)
-- *2020-2025(expected)*, Software Engineering, Tongji University, Shanghai, China
-  - Supervised by [Prof. Zhen Gao](https://sse.tongji.edu.cn/info/1206/3160.htm)
+- *2024.09 - 2024.10*, Visiting Student in University of California, Berkeley, USA
+- *2020.09-2025.7*, Software Engineering (GPA: 4.0/4.0), Tongji University, Shanghai, China
 
-# 💻 Internships
+<!-- # 💻 Internships
 - *Feb 2024 - Present*: Berkeley NLP Group, Berkeley Artificial Intelligence Research (BAIR) Lab
 - *Nov 2023 - Jun 2024*: Department of Computer Science, Emory University
 - *Apr 2023 - May 2024*: Department of Computer Science, University of Hong Kong
 - *Apr 2022 - Nov 2023*: City Science Lab@Shanghai (MIT Media Lab)
 - *Sept 2021 - Nov 2023*: Tongji ADE Lab
-- *May 2021 - Apr 2023*: Tongji NaMI Lab
+- *May 2021 - Apr 2023*: Tongji NaMI Lab -->
 
 ------
 

@@ -1,0 +1,18 @@
+current directory: /home/lingjun/lingjun_website/acad-homepage.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+/home/lingjun/.rbenv/versions/3.1.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/lingjun/lingjun_website/acad-homepage.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251226-1982929-b2s9hv sitelibdir\=./.gem.20251226-1982929-b2s9hv clean
+
+current directory: /home/lingjun/lingjun_website/acad-homepage.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251226-1982929-b2s9hv sitelibdir\=./.gem.20251226-1982929-b2s9hv
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/lingjun/lingjun_website/acad-homepage.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251226-1982929-b2s9hv sitelibdir\=./.gem.20251226-1982929-b2s9hv install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20251226-1982929-b2s9hv/racc
+
+current directory: /home/lingjun/lingjun_website/acad-homepage.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251226-1982929-b2s9hv sitelibdir\=./.gem.20251226-1982929-b2s9hv clean

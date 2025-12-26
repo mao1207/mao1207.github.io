@@ -1,8 +1,3 @@
-platforms :mingw, :x64_mingw, :mswin, :jruby do
-  gem "tzinfo", ">= 1", "< 3"
-  gem "tzinfo-data"
-end
-
 source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
