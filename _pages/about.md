@@ -50,6 +50,18 @@ You can find my [CV](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ0
 </div>
 </div> -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/DeliveryBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DeliveryBench: Can Agents Earn Profit in Real World?](https://deliverybench.github.io/)
+
+**Lingjun Mao**, Jiawei Ren, Kun Zhou, Jixuan Chen, Ziqiao Ma, Lianhui Qin†
+
+<strong>Arxiv</strong>
+- We present DeliveryBench, a realistic embodied benchmark for food delivery that evaluates long-horizon, constraint-rich decision-making to maximize net profit over hours.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/SimWorld.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -156,5 +168,5 @@ Kejiang Qian, **Lingjun Mao**, Xin Liang, Yimin Ding, Jin Gao, Xinran Wei, Ziyi 
 ------
 
 <p align="center">
-  <i>2025@Lingjun Mao</i>
+  <i>2026@Lingjun Mao</i>
 </p>
