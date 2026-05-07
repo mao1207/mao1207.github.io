@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am an first-year CS Ph.D. student at [University of California San Diego](https://cse.ucsd.edu/) (UCSD), advised by [Prof. Lianhui Qin](https://lianhui.ucsd.edu/). During my undergraduate studies, I was also a Visiting Researcher at the [Berkeley NLP Group](https://nlp.cs.berkeley.edu/), working closely with [Prof. Alane Suhr](https://www.alanesuhr.com/) and [Zineng Tang](https://zinengtang.github.io/).
+I am an first-year CS Ph.D. student at [University of California San Diego](https://cse.ucsd.edu/) (UCSD). During my undergraduate studies, I was also a Visiting Researcher at the [Berkeley NLP Group](https://nlp.cs.berkeley.edu/), working with [Prof. Alane Suhr](https://www.alanesuhr.com/).
 
 My research focuses on **natural language processing**, **machine learning**, and **computer vision**. Currently, I am working on building intelligent agents (e.g., embodied agents and coding agents), as well as developing realistic world simulations (e.g., SimWorld) for agent training. In the long term, I aim to leverage increasingly realistic simulated worlds to systematically study the capability boundaries of current models in complex environments, and to explore how such environments can facilitate the learning and generalization of intelligent agents.
 
