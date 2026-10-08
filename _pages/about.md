@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am an first-year CS Ph.D. student at [University of California San Diego](https://cse.ucsd.edu/) (UCSD). During my undergraduate studies, I was also a Visiting Researcher at the [Berkeley NLP Group](https://nlp.cs.berkeley.edu/), working with [Prof. Alane Suhr](https://www.alanesuhr.com/).
+I am a second-year Ph.D. student at [University of California San Diego](https://cse.ucsd.edu/) (UCSD), advised by [Prof. Biwei Huang](https://biweihuang.com/). I am also working at [Aether AI](https://aetherlabs.ai/), where I lead the robotics group. During my undergraduate studies, I was a Visiting Researcher at the [Berkeley NLP Group](https://nlp.cs.berkeley.edu/), working with [Prof. Alane Suhr](https://www.alanesuhr.com/).
 
-My research focuses on **natural language processing**, **machine learning**, and **computer vision**. Currently, I am working on building intelligent agents (e.g., embodied agents and coding agents), as well as developing realistic world simulations (e.g., SimWorld) for agent training. In the long term, I aim to leverage increasingly realistic simulated worlds to systematically study the capability boundaries of current models in complex environments, and to explore how such environments can facilitate the learning and generalization of intelligent agents.
+My research focuses on **robot foundation models**, **embodied agents**, and **world simulation**. Currently, I am working on building robot intelligence systems (e.g., [CRIS-0](https://aetherlabs.ai/articles/real-world-autonomous-robotic-system-with-causality-driven-agent-and-world-model)), as well as developing realistic world simulations (e.g., SimWorld) for agent training. In the long term, my goal is to build general-purpose embodied intelligence that can autonomously learn, reason, and act in the physical world, generalizing across embodiments and tasks from only a few demonstrations.
 
 
 You can find my [CV](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ05bsLw6/view?usp=sharing) here. I am always open to any form of collaboration. If you have any ideas for potential collaboration, or just feel like having a casual chat, please feel free to reach out!
@@ -30,7 +30,9 @@ You can find my [CV](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ0
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
 
 # 🔥 News
-- *2025.04*: &nbsp;Thrilled to join UCSD as a CS Ph.D. student. Looking forward to starting this new journey!🌴🌊☀️
+- *2026.07*: &nbsp;Our work DeliveryBench has been accepted to COLM 2026.
+- *2026.03*: &nbsp;Joined Aether AI to lead the robotics group.
+- *2025.04*: &nbsp;Thrilled to join UCSD as a Ph.D. student. Looking forward to starting this new journey!🌴🌊☀️
 - *2025.02*: &nbsp;Our work on evaluating VLMs on photorealistic color illusion scenes has been accepted to CVPR 2025.
 - *2024.09*: &nbsp;Our work on multi-perspective communication has been accepted by EMNLP main 2024.
 - *2024.09*: &nbsp;Our work on multimodal instruction-tuning for biomedicine has been accepted to NeurIPS D&B 2024!
@@ -57,7 +59,7 @@ You can find my [CV](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ0
 
 **Lingjun Mao**, Jiawei Ren, Kun Zhou, Jixuan Chen, Ziqiao Ma, Lianhui Qin†
 
-<strong>Arxiv</strong>
+<strong>COLM 2026</strong>
 - We present DeliveryBench, a realistic embodied benchmark for food delivery that evaluates long-horizon, constraint-rich decision-making to maximize net profit over hours.
 </div>
 </div>
@@ -152,6 +154,19 @@ Kejiang Qian, **Lingjun Mao**, Xin Liang, Yimin Ding, Jin Gao, Xinran Wei, Ziyi 
 - we introduce a Consensus-based Multi-Agent Reinforcement Learning framework for real-world land use readjustment.
 </div>
 </div> -->
+
+# 📰 Blog
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/CRIS-0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Building a Real-world Autonomous Robotic System with Causality-driven Agent and World Model](https://aetherlabs.ai/articles/real-world-autonomous-robotic-system-with-causality-driven-agent-and-world-model)
+
+**Lingjun Mao†**, Lukun He†, Jinglin Cao†, Wenpeng Xu†, …, Kun Zhou\*, Biwei Huang
+
+<strong>Aether AI, 2026</strong>
+- CRIS-0 is a causality-driven robotic intelligence system that integrates a Causal Agent with a Causal World Model to construct structured causal representations of the physical world, enabling robots to actively explore, intervene in, reason about, and adapt to their environments.
+</div>
+</div>
 
 # 📖 Educations
 - *2024.09 - 2024.10*, Visiting Student in University of California, Berkeley, USA
