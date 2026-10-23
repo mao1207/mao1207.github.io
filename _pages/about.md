@@ -38,6 +38,19 @@ You can find my [CV](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ0
 - *2024.09*: &nbsp;Our work on multimodal instruction-tuning for biomedicine has been accepted to NeurIPS D&B 2024!
 
 
+# 📰 Blog
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/CRIS-0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Building a Real-world Autonomous Robotic System with Causality-driven Agent and World Model](https://aetherlabs.ai/articles/real-world-autonomous-robotic-system-with-causality-driven-agent-and-world-model)
+
+**Lingjun Mao†**, Lukun He†, Jinglin Cao†, Wenpeng Xu†, …, Kun Zhou\*, Biwei Huang
+
+<div class="paper-links"><span class="venue">Aether AI, 2026</span><a href="https://aetherlabs.ai/articles/real-world-autonomous-robotic-system-with-causality-driven-agent-and-world-model">Blog</a><a class="press" href="https://mp.weixin.qq.com/s/lmF7cN9YymTF5ETwp1WCtg">机器之心</a><a class="press" href="https://mp.weixin.qq.com/s/Kc4EZEeHjup6Rq0GSDJx2A">量子位</a><a class="press" href="https://techcrunch.com/sponsor/aether-ai/aether-ai-builds-causal-intelligence-for-the-real-world/">TechCrunch</a><a class="press" href="https://mp.weixin.qq.com/s/uL8SdX26sUuPGYH41lcofA">甲子光年</a></div>
+- CRIS-0 is a causality-driven robotic intelligence system that integrates a Causal Agent with a Causal World Model to construct structured causal representations of the physical world, enabling robots to actively explore, intervene in, reason about, and adapt to their environments.
+</div>
+</div>
+
 # 📝 Publications 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/dove.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,7 +72,7 @@ You can find my [CV](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ0
 
 **Lingjun Mao**, Jiawei Ren, Kun Zhou, Jixuan Chen, Ziqiao Ma, Lianhui Qin†
 
-<strong>COLM 2026</strong>
+<div class="paper-links"><span class="venue">COLM 2026</span><a href="https://deliverybench.github.io/">Project Page</a><a href="https://arxiv.org/abs/2512.19234">arXiv</a><a href="https://github.com/SimWorld-AI/DeliveryBench">Code</a><a href="https://huggingface.co/datasets/SimWorld-AI/DeliveryBench">Dataset</a><a class="press" href="https://mp.weixin.qq.com/s/JwYNLK0j_bTRi-YpmiqIuA">具身智能之心</a></div>
 - We present DeliveryBench, a realistic embodied benchmark for food delivery that evaluates long-horizon, constraint-rich decision-making to maximize net profit over hours.
 </div>
 </div>
@@ -69,9 +82,9 @@ You can find my [CV](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ0
 
 [SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds](https://simworld.org/)
 
-Jiawei Ren*, Yan Zhuang*, Xiaokang Ye*, **Lingjun Mao**, Xuhong He, Jianzhi Shen, …, Tianmin Shu†, Zhiting Hu†, Lianhui Qin†
+Jiawei Ren\*, Yan Zhuang\*, Xiaokang Ye\*, **Lingjun Mao**, Xuhong He, Jianzhi Shen, …, Tianmin Shu†, Zhiting Hu†, Lianhui Qin†
 
-<strong>Technical Report</strong>
+<div class="paper-links"><span class="venue">Technical Report</span><a href="https://simworld.org/">Project Page</a><a href="https://arxiv.org/abs/2512.01078">arXiv</a><a href="https://github.com/SimWorld-AI/SimWorld">Code</a><a href="https://simworld.readthedocs.io/en/latest/">Docs</a><a href="https://simworld.org/leaderboard">Leaderboard</a></div>
 - We propose SimWorld Simulator, featuring three key designs: (1) realistic, open-ended world simulation, (2) rich interface for LLM/VLM agents, and (3) diverse physical and social reasoning scenarios
 </div>
 </div>
@@ -83,7 +96,7 @@ Jiawei Ren*, Yan Zhuang*, Xiaokang Ye*, **Lingjun Mao**, Xuhong He, Jianzhi Shen
 
 **Lingjun Mao**, Zineng Tang, Alane Suhr 
 
-<strong>CVPR 2025</strong>
+<div class="paper-links"><span class="venue">CVPR 2025</span><a href="https://arxiv.org/abs/2412.06184">arXiv</a><a href="https://github.com/mao1207/RCID">Code</a></div>
 - We propose an automated framework for generating realistic color illusion images, build a large-scale dataset (RCID), and systematically investigate the underlying mechanisms by which VLMs are misled by color illusions.
 </div>
 </div>
@@ -95,7 +108,7 @@ Jiawei Ren*, Yan Zhuang*, Xiaokang Ye*, **Lingjun Mao**, Xuhong He, Jianzhi Shen
 
 Zineng Tang, **Lingjun Mao**, Alane Suhr 
 
-<strong>EMNLP main 2024</strong>
+<div class="paper-links"><span class="venue">EMNLP 2024 Main</span><a href="https://arxiv.org/abs/2410.03959">arXiv</a><a href="https://aclanthology.org/2024.emnlp-main.1100/">Paper</a><a href="https://github.com/zinengtang/MulAgentRef">Code</a></div>
 - We introduce a task and dataset for referring expression generation and comprehension in multi-agent embodied environments.
 </div>
 </div>
@@ -126,7 +139,7 @@ Yizhou Chi, **Lingjun Mao**, Zineng Tang
 
  Hejie Cui*, **Lingjun Mao\***, Xin Liang, Jieyu Zhang, Hui Ren, Quanzheng Li, Xiang Li, Carl Yang
 
-<strong>NeurIPS 2024</strong>
+<div class="paper-links"><span class="venue">NeurIPS 2024 D&amp;B</span><a href="https://biomed-vital.github.io/">Project Page</a><a href="https://arxiv.org/abs/2406.13173">arXiv</a><a href="https://github.com/mao1207/BioMed-VITAL">Code</a><a href="https://huggingface.co/datasets/mao1207/BioMed-VITAL-instructions">Dataset</a><a href="https://huggingface.co/mao1207/BioMed-VITAL-models">Models</a></div>
 - we propose a data-centric framework (Biomed-VITAl) that incorporates clinician preferences into both stages of generating and selecting instruction data for tuning biomedical multimodal foundation models.
 </div>
 </div>
@@ -154,19 +167,6 @@ Kejiang Qian, **Lingjun Mao**, Xin Liang, Yimin Ding, Jin Gao, Xinran Wei, Ziyi 
 - we introduce a Consensus-based Multi-Agent Reinforcement Learning framework for real-world land use readjustment.
 </div>
 </div> -->
-
-# 📰 Blog
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/CRIS-0.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Building a Real-world Autonomous Robotic System with Causality-driven Agent and World Model](https://aetherlabs.ai/articles/real-world-autonomous-robotic-system-with-causality-driven-agent-and-world-model)
-
-**Lingjun Mao†**, Lukun He†, Jinglin Cao†, Wenpeng Xu†, …, Kun Zhou\*, Biwei Huang
-
-<strong>Aether AI, 2026</strong>
-- CRIS-0 is a causality-driven robotic intelligence system that integrates a Causal Agent with a Causal World Model to construct structured causal representations of the physical world, enabling robots to actively explore, intervene in, reason about, and adapt to their environments.
-</div>
-</div>
 
 # 📖 Educations
 - *2024.09 - 2024.10*, Visiting Student in University of California, Berkeley, USA
