@@ -30,6 +30,7 @@ You can find my [CV](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ0
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
 
 # 🔥 News
+- *2026.10*: &nbsp;We release RobotAgentBench, a benchmark for open-world robot autonomy.
 - *2026.07*: &nbsp;Our work DeliveryBench has been accepted to COLM 2026.
 - *2026.03*: &nbsp;Joined Aether AI to lead the robotics group.
 - *2025.04*: &nbsp;Thrilled to join UCSD as a Ph.D. student. Looking forward to starting this new journey!🌴🌊☀️
@@ -39,7 +40,7 @@ You can find my [CV](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ0
 
 
 # 📰 Blog
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/CRIS-0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><div class="demo-card" data-video="../assets/video/CRIS-0-demo.mp4" role="button" tabindex="0" aria-label="Play CRIS-0 demo"><video class="demo-preview" src="../assets/video/CRIS-0-teaser.mp4" poster="../assets/video/CRIS-0-poster.jpg" autoplay muted loop playsinline preload="auto"></video><span class="demo-play" aria-hidden="true"></span><span class="demo-label">▶ Watch demo</span></div></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Building a Real-world Autonomous Robotic System with Causality-driven Agent and World Model](https://aetherlabs.ai/articles/real-world-autonomous-robotic-system-with-causality-driven-agent-and-world-model)
@@ -65,7 +66,19 @@ You can find my [CV](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ0
 </div>
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/DeliveryBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><div class="demo-card" data-video="../assets/video/RAB-demo.mp4" role="button" tabindex="0" aria-label="Play RobotAgentBench demo"><video class="demo-preview" src="../assets/video/RAB-teaser.mp4" poster="../assets/video/RAB-poster.jpg" autoplay muted loop playsinline preload="auto"></video><span class="demo-play" aria-hidden="true"></span><span class="demo-label">▶ Watch demo</span></div></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RobotAgentBench: Towards Open-world Robot Autonomy](https://aetherlabsai.github.io/RobotAgentBench/)
+
+**Lingjun Mao†**, Jinglin Cao†, Lukun He†, Wenpeng Xu, Yuchen Yan, …, Kun Zhou\*, Biwei Huang
+
+<div class="paper-links"><span class="venue">arXiv 2026</span><a href="https://aetherlabsai.github.io/RobotAgentBench/">Project Page</a><a href="https://arxiv.org/abs/2610.34649">arXiv</a><a href="https://github.com/AetherLabsAI/RobotAgentBench">Code</a><a href="https://huggingface.co/datasets/AetherLabs-AI/RobotAgentBench-TrainingData">Dataset</a><a href="https://huggingface.co/AetherLabs-AI/InternVLA-A1.5-RAB">Model</a></div>
+- We introduce RobotAgentBench (RAB), a benchmark for evaluating robot agents in realistic, open-world household environments, covering task discovery, context reasoning, manipulation, failure recovery, and robustness across 50 real-to-sim household layouts.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><div class="demo-card" data-video="../assets/video/DeliveryBench-demo.mp4" role="button" tabindex="0" aria-label="Play DeliveryBench demo"><video class="demo-preview" src="../assets/video/DeliveryBench-teaser.mp4" poster="../assets/video/DeliveryBench-poster.jpg" autoplay muted loop playsinline preload="auto"></video><span class="demo-play" aria-hidden="true"></span><span class="demo-label">▶ Watch demo</span></div></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DeliveryBench: Can Agents Earn Profit in Real World?](https://deliverybench.github.io/)
@@ -77,7 +90,7 @@ You can find my [CV](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ0
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/SimWorld.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/SimWorld.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds](https://simworld.org/)
@@ -87,7 +100,7 @@ Jiawei Ren\*, Yan Zhuang\*, Xiaokang Ye\*, **Lingjun Mao**, Xuhong He, Jianzhi S
 <div class="paper-links"><span class="venue">Technical Report</span><a href="https://simworld.org/">Project Page</a><a href="https://arxiv.org/abs/2512.01078">arXiv</a><a href="https://github.com/SimWorld-AI/SimWorld">Code</a><a href="https://simworld.readthedocs.io/en/latest/">Docs</a><a href="https://simworld.org/leaderboard">Leaderboard</a></div>
 - We propose SimWorld Simulator, featuring three key designs: (1) realistic, open-ended world simulation, (2) rich interface for LLM/VLM agents, and (3) diverse physical and social reasoning scenarios
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -101,7 +114,7 @@ Jiawei Ren\*, Yan Zhuang\*, Xiaokang Ye\*, **Lingjun Mao**, Xuhong He, Jianzhi S
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Grounding Language in Multi-Perspective Referential Communication](https://arxiv.org/abs/2410.03959)
@@ -111,7 +124,7 @@ Zineng Tang, **Lingjun Mao**, Alane Suhr
 <div class="paper-links"><span class="venue">EMNLP 2024 Main</span><a href="https://arxiv.org/abs/2410.03959">arXiv</a><a href="https://aclanthology.org/2024.emnlp-main.1100/">Paper</a><a href="https://github.com/zinengtang/MulAgentRef">Code</a></div>
 - We introduce a task and dataset for referring expression generation and comprehension in multi-agent embodied environments.
 </div>
-</div>
+</div> -->
 
 <!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
