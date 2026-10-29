@@ -73,7 +73,7 @@ You can find my [CV](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ0
 
 **Lingjun Mao†**, Jinglin Cao†, Lukun He†, Wenpeng Xu, Yuchen Yan, …, Kun Zhou\*, Biwei Huang
 
-<div class="paper-links"><span class="venue">arXiv 2026</span><a href="https://aetherlabsai.github.io/RobotAgentBench/">Project Page</a><a href="https://arxiv.org/abs/2610.34649">arXiv</a><a href="https://github.com/AetherLabsAI/RobotAgentBench">Code</a><a href="https://huggingface.co/datasets/AetherLabs-AI/RobotAgentBench-TrainingData">Dataset</a><a href="https://huggingface.co/AetherLabs-AI/InternVLA-A1.5-RAB">Model</a></div>
+<div class="paper-links"><span class="venue">arXiv 2026</span><a href="https://aetherlabsai.github.io/RobotAgentBench/">Project Page</a><a href="https://arxiv.org/abs/2610.34649">arXiv</a><a href="https://github.com/AetherLabsAI/RobotAgentBench">Code</a><a href="https://huggingface.co/datasets/AetherLabs-AI/RobotAgentBench-TrainingData">Dataset</a><a href="https://huggingface.co/AetherLabs-AI/InternVLA-A1.5-RAB">Model</a><a class="press" href="https://mp.weixin.qq.com/s/ci35Mz_2o7lL-E4ocPuReg">机器之心</a></div>
 - We introduce RobotAgentBench (RAB), a benchmark for evaluating robot agents in realistic, open-world household environments, covering task discovery, context reasoning, manipulation, failure recovery, and robustness across 50 real-to-sim household layouts.
 </div>
 </div>
