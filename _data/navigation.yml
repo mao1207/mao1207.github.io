@@ -9,8 +9,8 @@ main:
   - title: "Blog"
     url: "/#-blog"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Selected Publications"
+    url: "/#-selected-publications"
 
   - title: "Educations"
     url: "/#-educations"

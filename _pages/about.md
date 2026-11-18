@@ -36,7 +36,7 @@ You can find my [CV](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ0
 - *2025.04*: &nbsp;Thrilled to join UCSD as a Ph.D. student. Looking forward to starting this new journey!🌴🌊☀️
 - *2025.02*: &nbsp;Our work on evaluating VLMs on photorealistic color illusion scenes has been accepted to CVPR 2025.
 - *2024.09*: &nbsp;Our work on multi-perspective communication has been accepted by EMNLP main 2024.
-- *2024.09*: &nbsp;Our work on multimodal instruction-tuning for biomedicine has been accepted to NeurIPS D&B 2024!
+- *2024.09*: &nbsp;Our work on multimodal instruction-tuning for biomedicine has been accepted to NeurIPS 2024!
 
 
 # 📰 Blog
@@ -52,19 +52,7 @@ You can find my [CV](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ0
 </div>
 </div>
 
-# 📝 Publications 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/dove.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Images are Worth Variable Length of Representations](https://arxiv.org/abs/2506.03643)
-
-**Lingjun Mao**, Rodolfo Corona, Xin Liang, Wenhao Yan, Zineng Tang
-
-[**Project**](https://arxiv.org/abs/2506.03643) | <strong>Arxiv 2025</strong>
-- We propose DOVE, a dynamic vision encoder that produces a variable number of tokens to reconstruct each image.
-- We extend DOVE with query-conditioned tokenization, which enables more efficient and targeted semantic extraction.
-</div>
-</div> -->
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><div class="demo-card" data-video="../assets/video/RAB-demo.mp4" role="button" tabindex="0" aria-label="Play RobotAgentBench demo"><video class="demo-preview" src="../assets/video/RAB-teaser.mp4" poster="../assets/video/RAB-poster.jpg" autoplay muted loop playsinline preload="auto"></video><span class="demo-play" aria-hidden="true"></span><span class="demo-label">▶ Watch demo</span></div></div></div>
 <div class='paper-box-text' markdown="1">
@@ -114,6 +102,18 @@ Jiawei Ren\*, Yan Zhuang\*, Xiaokang Ye\*, **Lingjun Mao**, Xuhong He, Jianzhi S
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/dove.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Images are Worth Variable Length of Representations](https://dove-encoder.github.io/dove-encoder/)
+
+**Lingjun Mao**, Rodolfo Corona, Xin Liang, Wenhao Yan, Zineng Tang†
+
+<div class="paper-links"><span class="venue">arXiv 2025</span><a href="https://dove-encoder.github.io/dove-encoder/">Project Page</a><a href="https://arxiv.org/abs/2506.03643">arXiv</a><a href="https://github.com/mao1207/DOVE">Code</a><a href="https://huggingface.co/mao1207/DOVE">Model</a></div>
+- We propose DOVE, a dynamic vision encoder that produces a variable number of tokens to reconstruct each image, and extend it with query-conditioned tokenization for more efficient and targeted semantic extraction.
+</div>
+</div>
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -152,7 +152,7 @@ Yizhou Chi, **Lingjun Mao**, Zineng Tang
 
  Hejie Cui*, **Lingjun Mao\***, Xin Liang, Jieyu Zhang, Hui Ren, Quanzheng Li, Xiang Li, Carl Yang
 
-<div class="paper-links"><span class="venue">NeurIPS 2024 D&amp;B</span><a href="https://biomed-vital.github.io/">Project Page</a><a href="https://arxiv.org/abs/2406.13173">arXiv</a><a href="https://github.com/mao1207/BioMed-VITAL">Code</a><a href="https://huggingface.co/datasets/mao1207/BioMed-VITAL-instructions">Dataset</a><a href="https://huggingface.co/mao1207/BioMed-VITAL-models">Models</a></div>
+<div class="paper-links"><span class="venue">NeurIPS 2024</span><a href="https://biomed-vital.github.io/">Project Page</a><a href="https://arxiv.org/abs/2406.13173">arXiv</a><a href="https://github.com/mao1207/BioMed-VITAL">Code</a><a href="https://huggingface.co/datasets/mao1207/BioMed-VITAL-instructions">Dataset</a><a href="https://huggingface.co/mao1207/BioMed-VITAL-models">Models</a></div>
 - we propose a data-centric framework (Biomed-VITAl) that incorporates clinician preferences into both stages of generating and selecting instruction data for tuning biomedical multimodal foundation models.
 </div>
 </div>
