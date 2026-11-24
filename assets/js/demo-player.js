@@ -37,7 +37,7 @@
     if (e.key === 'Escape' && modal && modal.classList.contains('open')) close();
   });
 
-  document.querySelectorAll('.demo-card').forEach(function (card) {
+  document.querySelectorAll('.demo-card[data-video]').forEach(function (card) {
     card.addEventListener('click', function () { open(card); });
     card.addEventListener('keydown', function (e) {
       if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(card); }

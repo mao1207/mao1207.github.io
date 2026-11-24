@@ -20,10 +20,10 @@ redirect_from:
 # Welcome! 
 I am a second-year Ph.D. student at [University of California San Diego](https://cse.ucsd.edu/) (UCSD), advised by [Prof. Biwei Huang](https://biweihuang.com/). I am also working at [Aether AI](https://aetherlabs.ai/), where I lead the robotics group. During my undergraduate studies, I was a Visiting Researcher at the [Berkeley NLP Group](https://nlp.cs.berkeley.edu/), working with [Prof. Alane Suhr](https://www.alanesuhr.com/).
 
-My research focuses on **robot foundation models**, **embodied agents**, and **world simulation**. Currently, I am working on building robot intelligence systems (e.g., [CRIS-0](https://aetherlabs.ai/articles/real-world-autonomous-robotic-system-with-causality-driven-agent-and-world-model)), as well as developing realistic world simulations (e.g., SimWorld) for agent training. In the long term, my goal is to build general-purpose embodied intelligence that can autonomously learn, reason, and act in the physical world, generalizing across embodiments and tasks from only a few demonstrations.
+My research focuses on **robot foundation models**, **embodied agents**, and **world simulation**. Currently, I am working on building robot intelligence systems (e.g., [CRIS-0](https://aetherlabs.ai/articles/real-world-autonomous-robotic-system-with-causality-driven-agent-and-world-model)), as well as developing realistic world simulations (e.g., [RobotAgentBench](https://aetherlabsai.github.io/RobotAgentBench/), [DeliveryBench](https://deliverybench.github.io/)) for agent training. In the long term, my goal is to build general-purpose embodied intelligence that can autonomously learn, reason, and act in the physical world, generalizing across embodiments and tasks from only a few demonstrations.
 
 
-You can find my [CV](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ05bsLw6/view?usp=sharing) here. I am always open to any form of collaboration. If you have any ideas for potential collaboration, or just feel like having a casual chat, please feel free to reach out!
+You can find my [CV](/files/CV_Lingjun_Mao.pdf) here. I am always open to any form of collaboration. If you have any ideas for potential collaboration, or just feel like having a casual chat, please feel free to reach out!
 
 <!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
@@ -49,6 +49,19 @@ You can find my [CV](https://drive.google.com/file/d/1cYcl2w3z3J7tdv5NVDf3QYNRQ0
 
 <div class="paper-links"><span class="venue">Aether AI, 2026</span><a href="https://aetherlabs.ai/articles/real-world-autonomous-robotic-system-with-causality-driven-agent-and-world-model">Blog</a><a class="press" href="https://mp.weixin.qq.com/s/lmF7cN9YymTF5ETwp1WCtg">机器之心</a><a class="press" href="https://mp.weixin.qq.com/s/Kc4EZEeHjup6Rq0GSDJx2A">量子位</a><a class="press" href="https://techcrunch.com/sponsor/aether-ai/aether-ai-builds-causal-intelligence-for-the-real-world/">TechCrunch</a><a class="press" href="https://mp.weixin.qq.com/s/uL8SdX26sUuPGYH41lcofA">甲子光年</a></div>
 - CRIS-0 is a causality-driven robotic intelligence system that integrates a Causal Agent with a Causal World Model to construct structured causal representations of the physical world, enabling robots to actively explore, intervene in, reason about, and adapt to their environments.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><div class="demo-card demo-static"><video class="demo-preview" src="../assets/video/CausalWAM-teaser.mp4" poster="../assets/video/CausalWAM-poster.jpg" autoplay muted loop playsinline preload="auto" aria-label="CausalWAM: robot execution next to the model's predicted future"></video></div></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CausalWAM: A Causal World Action Model for Generalizable Robot Control](https://aetherlabs.ai/articles/causalwam-a-causal-world-action-model-for-generalizable-robot-control)
+
+Yifei Shao†, Junbo Huang†, Ziqiao Xi†, Fang Nan†, …, **Lingjun Mao**, …, Kun Zhou\*, Biwei Huang
+
+<div class="paper-links"><span class="venue">Aether AI, 2026</span><a href="https://aetherlabs.ai/articles/causalwam-a-causal-world-action-model-for-generalizable-robot-control">Blog</a></div>
+- Contributed to large-scale world-action model training on 15.8K hours of curated multi-embodiment data, filtered from 19.5K raw hours of robot, egocentric, UMI and simulation video.
+- The model extends a 16B CausalWM backbone with an Action Expert, trained in three pretraining stages that progress from single- and multi-view video modeling to joint video–action learning.
 </div>
 </div>
 
@@ -90,14 +103,14 @@ Jiawei Ren\*, Yan Zhuang\*, Xiaokang Ye\*, **Lingjun Mao**, Xuhong He, Jianzhi S
 </div>
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper6.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><div class="demo-card" data-video="../assets/video/ColorIllusion-demo.mp4" role="button" tabindex="0" aria-label="Play Color Illusion demo: each scene asks a question, then reveals the answer"><video class="demo-preview" src="../assets/video/ColorIllusion-teaser.mp4" poster="../assets/video/ColorIllusion-poster.jpg" autoplay muted loop playsinline preload="auto"></video><span class="demo-play" aria-hidden="true"></span><span class="demo-label">▶ Watch demo</span></div></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Evaluating Model Perception of Color Illusions in Photorealistic Scenes](https://arxiv.org/abs/2412.06184)
+[Evaluating Model Perception of Color Illusions in Photorealistic Scenes](https://color-illusion.github.io/Color-Illusion/)
 
 **Lingjun Mao**, Zineng Tang, Alane Suhr 
 
-<div class="paper-links"><span class="venue">CVPR 2025</span><a href="https://arxiv.org/abs/2412.06184">arXiv</a><a href="https://github.com/mao1207/RCID">Code</a></div>
+<div class="paper-links"><span class="venue">CVPR 2025</span><a href="https://color-illusion.github.io/Color-Illusion/">Project Page</a><a href="https://arxiv.org/abs/2412.06184">arXiv</a><a href="https://github.com/mao1207/RCID">Code</a><a href="https://huggingface.co/datasets/mao1207/RCID">Dataset</a><a href="https://huggingface.co/mao1207/color-diffusion">Model</a></div>
 - We propose an automated framework for generating realistic color illusion images, build a large-scale dataset (RCID), and systematically investigate the underlying mechanisms by which VLMs are misled by color illusions.
 </div>
 </div>

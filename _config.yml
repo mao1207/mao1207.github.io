@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lingjun Mao"
-description              : "Ph.D. Student in Computer Science"
+description              : "Ph.D. Student in Halıcıoğlu Data Science Institute"
 repository               : "mao1207/mao1207.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,6 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FPn61hYAAAAJ"
   email            : "lingjun@ucsd.edu"
+  cv               : "/files/CV_Lingjun_Mao.pdf"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
